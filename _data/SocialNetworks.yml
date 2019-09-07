@@ -36,6 +36,16 @@ linkedin:
   baseURL: "https://linkedin.com/in/"
   icon: "fa-linkedin"
 
+googlescholar:
+  name: "Google Scholar"
+  baseURL: "https://scholar.google.nl/citations?user="
+  icon: "fa-google"
+  
+dblp:
+  name: "DBLP"
+  baseURL: "https://dblp.uni-trier.de/pers/hd/"
+  icon: "fa-book"
+
 xing:
   name: "Xing"
   baseURL: "https://www.xing.com/profile/"
