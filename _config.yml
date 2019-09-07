@@ -21,9 +21,6 @@ title: Loek Cleophas
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Publications:
-    - Google Scholar: "https://scholar.google.nl/citations?user=dKA2bqcAAAAJ&hl=en"
-    - DBLP: "http://dblp.uni-trier.de/pers/hd/c/Cleophas:Loek"
   Author's home: "http://loekcleophas.github.io"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -67,12 +64,11 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
+  rss: false
   email: "loek@me.com"
   googlescholar: dKA2bqcAAAAJ
   dblp: "hd/c/Cleophas:Loek"
   twitter: loekhere
-  github: loekcleophas
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
