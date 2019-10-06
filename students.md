@@ -4,6 +4,14 @@ title: Students
 #subtitle:
 ---
 
+# Interested?
+
+If you're interested in doing a project under my supervision, please contact me.
+
+I typically supervise TU/e students for Master's internship and graduation projects, and SU students for Honours projects or research Master's or Doctoral degrees. 
+
+I'm also interested in supervising fulltime doctoral projects with me at TU/e, provided funding is available—either from your side, or on a project we have funding for. At the moment (October 2019), we have an open [PhD position on product line engineering](https://jobs.tue.nl/en/vacancy/phd-position-on-product-line-engineering-744363.html).
+
 # Current students
 
 I currently (co-)supervise the following students at Eindhoven University of Technology (TU/e) and Stellenbosch University (SU):
