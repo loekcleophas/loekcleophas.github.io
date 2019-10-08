@@ -21,9 +21,9 @@ title: Loek Cleophas
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Publications: "https://scholar.google.com/citations?hl=en&user=dKA2bqcAAAAJ"
-  Projects: "projects"
   Students: "students"
+  Publications: "https://scholar.google.com/citations?hl=en&user=dKA2bqcAAAAJ"
+  Research: "research"
   News: "http://loekcleophas.github.io"
 
 # Image to show in the navigation bar - image must be a square (width = height)
