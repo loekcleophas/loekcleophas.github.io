@@ -4,6 +4,12 @@ title: Projects
 #subtitle:
 ---
 
+> *Correctness, efficiency, and elegance are core concerns in software engineering. They are often seen together—or not at all.*
+
+# Research profile
+
+TODO..
+
 # Current research project funding
 
 * [ArrowHead Tools](https://arrowhead.eu/arrowheadtools), funded by the EU Horizon 2020 ECSEL Joint Undertaking, 2019–2021. For the project's use cases with Philips Healthcare and with ASML, I've contributed to the proposal and am involved in the ongoing research.
