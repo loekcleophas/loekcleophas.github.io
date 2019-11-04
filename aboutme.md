@@ -4,7 +4,7 @@ title: About me
 #subtitle:
 ---
 
-I'm an Assistant Professor in the Software Engineering group in the Model Driven Software Engineering section of the department of Mathematics and Computer Science at TU/e, and Managing Director of the Institute for Programming research and Algorithmics (IPA), a Dutch research school. In addition to my work at TU/e, I am a research fellow at Stellenbosch University, South Africa.
+I'm an Assistant Professor in the Software Engineering group in the Model Driven Software Engineering section of the department of Mathematics and Computer Science at Eindhoven University of Technology (TU/e), and Managing Director of the Institute for Programming research and Algorithmics (IPA), a Dutch research school. In addition to my work at TU/e, I am a research fellow at Stellenbosch University, South Africa.
 
 # Academic background
 
