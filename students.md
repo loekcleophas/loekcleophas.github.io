@@ -26,6 +26,16 @@ I currently (co-)supervise the following students at TU/e and SU:
 ## Master's students
 
 * (2019) Javier Alvarez Morales, MSc ES (Embedded Systems) student at TU/e on internship project at [Spike Technologies](https://spike.global)
+
+# Previously (co-)supervised students
+
+## Doctoral students
+
+* (2019) Önder Babur, PhD student at TU/e. Thesis "Model analytics and management".
+* (2017) Vreda Pieterse, PhD student at University of Pretoria. Thesis "Topic Maps for Specifying Algorithm Taxonomies: A Case Study using Transitive Closure Algorithms."
+
+## Master's students
+
 * (2019) Leon Freriks, MSc CSE (Computer Science and Engineering) student at TU/e on graduation project at [ASML](https://www.asml.com), "Using static analysis to improve scalability
 of active automata learning of data-dependent components".
 * (2019) Niels Rood, MSc CSE student at TU/e on "Functional Safety Analysis and Safety Pattern Application on i-CAVE", as part of the [i-CAVE](https://i-cave.nl) (integrated Cooperative Automated VEhicles) project.
