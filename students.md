@@ -27,7 +27,9 @@ I currently (co-)supervise the following students at TU/e and SU:
 
 * (2019) Javier Alvarez Morales, MSc ES (Embedded Systems) student at TU/e on internship project at [Spike Technologies](https://spike.global)
 
-# Previously (co-)supervised students
+# Previous students
+
+A selection of students I (co-)supervised (mostly recently):
 
 ## Doctoral students
 
