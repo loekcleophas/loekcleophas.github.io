@@ -6,9 +6,11 @@ title: Research
 
 > *Correctness, efficiency, and elegance are core concerns in software engineering. They are often seen together—or not at all.*
 
-[//]: # # Research profile
+<!---
+# Research profile
 
-[//]: # TODO..
+# TODO..
+-->
 
 # Current research project funding
 
