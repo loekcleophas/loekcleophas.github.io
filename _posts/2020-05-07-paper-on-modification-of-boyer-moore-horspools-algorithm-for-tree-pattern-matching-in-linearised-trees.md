@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Paper ``On modification of Boyer-Moore-Horspool's algorithm for tree pattern matching in linearised trees`` published
+title: Paper on Boyer-Moore-Horspool style tree pattern matching in linearised trees published
 #subtitle: Each post also has a subtitle
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
