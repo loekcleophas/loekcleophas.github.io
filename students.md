@@ -4,28 +4,32 @@ title: Students
 #subtitle:
 ---
 
-# Interested?
+# Open assignments and positions
 
-If you're interested in doing a project or research degree under my supervision, please contact me.
+I typically supervise students for Master's internship or graduation projects. A list of current (last updated June 2020) graduation project assignments can be found [here](https://assignments.win.tue.nl/search?q=cleophas). If you are interested in one of these, or want to discuss ideas for a different graduation project topic, please contact me.
 
-## At TU/e
+I'm also interested in supervising doctoral students at TU/e, provided you either get self-funded via a grant, do a part-time PhD in combination with your job, or work on a project we have funding for.
 
-I typically supervise students for Master's internship or graduation projects. I'm also interested in supervising doctoral students at TU/e, provided you either get self-funded via a grant, do a part-time PhD in combination with your job, or work on a project we have funding for. At the moment (October 2019), we have an open [PhD position on product line engineering](https://jobs.tue.nl/en/vacancy/phd-position-on-product-line-engineering-744363.html).
+At the moment (June 2020), we have [Two PhD positions on methodology and tool support for effective digital twinning](https://jobs.tue.nl/en/vacancy/two-phd-positions-on-methodology-and-tool-support-for-effective-digital-twinning-852762.html).
 
-# Current students
 
-I currently (co-)supervise the following students at TU/e and SU:
+# Current postdocs and students
+
+I currently (co-)supervise the following at TU/e and SU:
+
+## Postdoctoral researchers
+
+* (2020-) Gökhan Kahraman, postdoc at TU/e on the [ArrowHead Tools](https://arrowhead.eu/arrowheadtools) project.
 
 ## Doctoral students
 
-* (2019–) Mahdi Saeedi Nikoo, PhD student at TU/e on the [ArrowHead Tools](https://arrowhead.eu/arrowheadtools) project.
 * (2018–) Kousar Aslam, PhD student at TU/e on joint project with [ASML](https://www.asml.com), working on learning component models by using active automata learning techniques.
 * (2017—) Sangeeth Kochanthara, PhD student at TU/e on (Software) Architecture and Functional Safety as part of the [i-CAVE](https://i-cave.nl) (integrated Cooperative Automated VEhicles) project.
 * (2017–) Melanie Mauch, PhD student at SU on compressed pattern matching. Partially funded by NRF CPRR project "SaSy and DaPPR: Sequences and Syntax, Distributed & Parallel Pattern Recognition".
 
 ## Master's students
 
-* (2019) Javier Alvarez Morales, MSc ES (Embedded Systems) student at TU/e on internship project at [Spike Technologies](https://spike.global)
+* (2019) Javier Alvarez Morales, MSc ES (Embedded Systems) student at TU/e on MSc final project with [ASML](https://www.asml.com), working in the area of representing and handling variability in settings with heterogeneous models.
 
 # Previous students
 
