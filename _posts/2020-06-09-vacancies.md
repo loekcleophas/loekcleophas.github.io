@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PhD vacancies: 2 PhD positions on methodology and tool support for effective digital twinning
+title: 2 PhD positions on methodology and tool support for effective digital twinning
 #subtitle: Each post also has a subtitle
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
