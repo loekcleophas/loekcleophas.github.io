@@ -32,7 +32,7 @@ I currently (co-)supervise the following at TU/e and SU:
 
 * (2021-2022) Bram van der Pol, MSc CSE (Computer Science and Engineering) student at TU/e on MSc final project with [Canon Production Printing](https://cpp.canon), working on models for model based carriage motion.
 * (2022) Alexandre Janin, MSc EIT Digital ES (Embedded Systems) student at TU Berlin and TU/e on MSc final project with [Canon Production Printing](https://cpp.canon), working on model-based media handling for Canon’s cut-sheet printers.
-* (2022) Ander Lee, MSc ES student at TU/e on MSc final project, investigating digital twin model integration and orchestration techniques by means of a microbrewery case study (yes, you read that right---brewing beer for science).
+* (2022) Ander Lee, MSc ES student at TU/e on MSc final project, investigating digital twin model integration and orchestration techniques by means of a microbrewery case study (_yes, you read that right---brewing beer for science_).
 * (2022) Jingjing Wang, MSc ES student at TU/e on MSc final project.
 
 # Previous students
