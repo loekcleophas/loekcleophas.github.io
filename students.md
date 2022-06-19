@@ -23,17 +23,17 @@ I currently (co-)supervise the following at TU/e and SU:
 
 ## Doctoral students
 
-* (2020–) Hossain Muctadir, PhD student at TU/e on model consistency as part of the [Digital Twin](https://www.digital-twin-research.nl) program.
-* (2020–) David Manrique Negrin, PhD student at TU/e on model orchestration as part of the [Digital Twin](https://www.digital-twin-research.nl) program.
-* (2017—) Sangeeth Kochanthara, PhD student at TU/e on (Software) Architecture and Functional Safety as part of the [i-CAVE](https://i-cave.nl) (integrated Cooperative Automated VEhicles) program.
-* (2017–) Melanie Mauch, PhD student at SU on compressed pattern matching. Partially funded by NRF CPRR project "SaSy and DaPPR: Sequences and Syntax, Distributed & Parallel Pattern Recognition".
+* (2020–) Hossain Muctadir, PhD student at TU/e on model consistency as part of the [Digital Twin](https://www.digital-twin-research.nl) program. Together with Mark van den Brand.
+* (2020–) David Manrique Negrin, PhD student at TU/e on model orchestration as part of the [Digital Twin](https://www.digital-twin-research.nl) program. Together with Mark van den Brand.
+* (2017—) Sangeeth Kochanthara, PhD student at TU/e on (Software) Architecture and Functional Safety as part of the [i-CAVE](https://i-cave.nl) (integrated Cooperative Automated VEhicles) program. Together with Yanja Dajsuren and Mark van den Brand.
+* (2017–) Melanie Mauch, PhD student at SU on compressed pattern matching. Partially funded by NRF CPRR project "SaSy and DaPPR: Sequences and Syntax, Distributed & Parallel Pattern Recognition". Together with Bruce Watson.
 
 ## Master's students
 
 * (2021-2022) Bram van der Pol, MSc CSE (Computer Science and Engineering) student at TU/e on MSc final project with [Canon Production Printing](https://cpp.canon), working on models for model based carriage motion.
-* (2022) Alexandre Janin, MSc EIT Digital ES (Embedded Systems) student at TU Berlin and TU/e on MSc final project with [Canon Production Printing](https://cpp.canon), working on model-based media handling for Canon’s cut-sheet printers.
-* (2022) Ander Lee, MSc ES student at TU/e on MSc final project, investigating digital twin model integration and orchestration techniques by means of a microbrewery case study (_yes, you read that right---brewing beer for science_).
-* (2022) Jingjing Wang, MSc ES student at TU/e on MSc final project.
+* (2022) Alexandre Janin, MSc EIT Digital ES (Embedded Systems) student at TU Berlin and TU/e on MSc final project with [Canon Production Printing](https://cpp.canon), working on model-based media handling for Canon’s cut-sheet printers. Supervised together with Gökhan Kahraman.
+* (2022) Ander Lee, MSc ES student at TU/e on MSc final project, investigating digital twin model integration and orchestration techniques by means of a microbrewery case study (_yes, you read that right---brewing beer for science_). Supervised together with David Manrique Negrin.
+* (2022) Jingjing Wang, MSc ES student at TU/e on MSc final project. Supervised together with Hossain Muctadir.
 
 # Previous students
 
@@ -41,16 +41,16 @@ A selection of students I (co-)supervised (mostly recently):
 
 ## Doctoral students
 
-* (2021) Kousar Aslam, PhD student at TU/e on joint project with [ASML](https://www.asml.com), working on learning component models by using active automata learning techniques. Kousar is now [a postdoc at VU Amsterdam](https://research.vu.nl/en/persons/kousar-aslam).
-* (2019) Önder Babur, PhD student at TU/e. Thesis "Model analytics and management". Önder is now an assistant professor at [Wageningen University and Research](https://research.wur.nl/en/persons/önder-babur) as well as guest at [TU/e](https://research.tue.nl/en/persons/önder-babur).
-* (2017) Vreda Pieterse, PhD student at University of Pretoria. Thesis "Topic Maps for Specifying Algorithm Taxonomies: A Case Study using Transitive Closure Algorithms." Vreda has by now retired from University of Pretoria, but remains an active researcher; see [ResearchGate](https://www.researchgate.net/profile/Vreda-Pieterse).
+* (2021) Kousar Aslam, PhD student at TU/e on joint project with [ASML](https://www.asml.com), working on learning component models by using active automata learning techniques. Kousar is now [a postdoc at VU Amsterdam](https://research.vu.nl/en/persons/kousar-aslam). Supervised together with with Ramon Schiffelers and Mark van den Brand.
+* (2019) Önder Babur, PhD student at TU/e. Thesis "Model analytics and management". Önder is now an assistant professor at [Wageningen University and Research](https://research.wur.nl/en/persons/önder-babur) as well as guest at [TU/e](https://research.tue.nl/en/persons/önder-babur). Supervised together with Mark van den Brand.
+* (2017) Vreda Pieterse, PhD student at University of Pretoria. Thesis "Topic Maps for Specifying Algorithm Taxonomies: A Case Study using Transitive Closure Algorithms." Vreda has by now retired from University of Pretoria, but remains an active researcher; see [ResearchGate](https://www.researchgate.net/profile/Vreda-Pieterse). Supervised together with Bruce Watson and Derrick Kourie.
 
 ## Master's students
 
-* (2022) Gijs Walravens, MSc CSE student at TU/e on graduation project with [TechUnited](https://www.techunited.nl), who developed a digital shadow (as precursor to a digital twin) of TechUnited's soccer robots that compete in the [RoboCup Middle Size League (MSL)](https://msl.robocup.org).
-* (2021) Tajinder Singh, MSc AT (Automotive Technology) student at TU/e on MSc final project with Siemens, working in the area of Safety Systems for Connected Automated Vehicles.
-* (2020) Javier Alvarez Morales, MSc ES (Embedded Systems) student at TU/e on MSc final project with [ASML](https://www.asml.com), working in the area of representing and handling variability in settings with heterogeneous models.
+* (2022) Gijs Walravens, MSc CSE student at TU/e on graduation project with [TechUnited](https://www.techunited.nl), who developed a digital shadow (as precursor to a digital twin) of TechUnited's soccer robots that compete in the [RoboCup Middle Size League (MSL)](https://msl.robocup.org). Supervised together with Hossain Muctadir.
+* (2021) Tajinder Singh, MSc AT (Automotive Technology) student at TU/e on MSc final project with Siemens, working in the area of Safety Systems for Connected Automated Vehicles. Supervised together with Sangeeth Kochanthara.
+* (2020) Javier Alvarez Morales, MSc ES (Embedded Systems) student at TU/e on MSc final project with [ASML](https://www.asml.com), working in the area of representing and handling variability in settings with heterogeneous models. Supervised together with Gökhan Kahraman and Ramon Schiffelers.
 * (2019) Leon Freriks, MSc CSE student at TU/e on graduation project at [ASML](https://www.asml.com), "Using static analysis to improve scalability
 of active automata learning of data-dependent components".
-* (2019) Niels Rood, MSc CSE student at TU/e on "Functional Safety Analysis and Safety Pattern Application on i-CAVE", as part of the [i-CAVE](https://i-cave.nl) (integrated Cooperative Automated VEhicles) project.
-* (2018) Aishwarya Suresh, MSc CSE student at TU/e on "Model analytics for ASML's data and control modeling languages".
+* (2019) Niels Rood, MSc CSE student at TU/e on "Functional Safety Analysis and Safety Pattern Application on i-CAVE", as part of the [i-CAVE](https://i-cave.nl) (integrated Cooperative Automated VEhicles) project. Supervised together with Sangeeth Kochanthara and Mark van den Brand.
+* (2018) Aishwarya Suresh, MSc CSE student at TU/e on "Model analytics for ASML's data and control modeling languages". Supervised together with Önder Babur.
