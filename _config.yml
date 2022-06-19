@@ -23,7 +23,7 @@ description:
 navbar-links:
   About Me: "aboutme"
   Students: "students"
-  Publications: "https://scholar.google.com/citations?hl=en&user=dKA2bqcAAAAJ"
+  Publications: "https://scholar.google.com/citations?hl=en&user=dKA2bqcAAAAJ&view_op=list_works&sortby=pubdate"
   Research: "research"
   News: "http://loekcleophas.github.io"
 
