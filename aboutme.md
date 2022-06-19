@@ -4,9 +4,9 @@ title: About me
 #subtitle:
 ---
 
-* Assistant Professor in the Software Engineering cluster of the department of Mathematics and Computer Science at Eindhoven University of Technology (TU/e)
-* Managing Director of the Institute for Programming research and Algorithmics (IPA), a Dutch research school
-* Research fellow at Stellenbosch University, South Africa.
+* Tenured Assistant Professor in the [Software Engineering cluster](https://set.win.tue.nl) of the department of Mathematics and Computer Science at Eindhoven University of Technology (TU/e)
+* Managing Director of the Institute for Programming research and Algorithmics ([IPA](https://ipa.win.tue.nl)), a Dutch research school
+* Research Fellow in the [Department of Information Science](https://suinformatics.com) at Stellenbosch University, South Africa.
 
 # Academic background
 
