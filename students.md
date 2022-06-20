@@ -15,8 +15,6 @@ I'm also interested in supervising doctoral students at TU/e, provided you eithe
 
 # Current postdocs and students
 
-I currently (co-)supervise the following at TU/e and SU:
-
 ## Postdoctoral researchers
 
 * (2020-) Gökhan Kahraman, postdoc at TU/e on the [ArrowHead Tools](https://arrowhead.eu/arrowheadtools) project.
@@ -30,14 +28,12 @@ I currently (co-)supervise the following at TU/e and SU:
 
 ## Master's students
 
-* (2021-2022) Bram van der Pol, MSc CSE (Computer Science and Engineering) student at TU/e on MSc final project with [Canon Production Printing](https://cpp.canon), working on models for model based carriage motion.
+* (2022) Ander Lee, MSc ES student at TU/e in MSc final project preparation phase, investigating digital twin model integration and orchestration techniques by means of a microbrewery case study (_yes, you read that right---brewing beer for science_). Supervised together with David Manrique Negrin.
+* (2022) Jingjing Wang, MSc ES student at TU/e in MSc final project preparation phase, deciding on topic. Supervised together with Hossain Muctadir.
 * (2022) Alexandre Janin, MSc EIT Digital ES (Embedded Systems) student at TU Berlin and TU/e on MSc final project with [Canon Production Printing](https://cpp.canon), working on model-based media handling for Canon’s cut-sheet printers. Supervised together with Gökhan Kahraman.
-* (2022) Ander Lee, MSc ES student at TU/e on MSc final project, investigating digital twin model integration and orchestration techniques by means of a microbrewery case study (_yes, you read that right---brewing beer for science_). Supervised together with David Manrique Negrin.
-* (2022) Jingjing Wang, MSc ES student at TU/e on MSc final project. Supervised together with Hossain Muctadir.
+* (2021-2022) Bram van der Pol, MSc CSE (Computer Science and Engineering) student at TU/e on MSc final project with [Canon Production Printing](https://cpp.canon), working on models for model based carriage motion.
 
 # Previous students
-
-A selection of students I (co-)supervised (mostly recently):
 
 ## Doctoral students
 
@@ -54,3 +50,4 @@ A selection of students I (co-)supervised (mostly recently):
 of active automata learning of data-dependent components".
 * (2019) Niels Rood, MSc CSE student at TU/e on "Functional Safety Analysis and Safety Pattern Application on i-CAVE", as part of the [i-CAVE](https://i-cave.nl) (integrated Cooperative Automated VEhicles) project. Supervised together with Sangeeth Kochanthara and Mark van den Brand.
 * (2018) Aishwarya Suresh, MSc CSE student at TU/e on "Model analytics for ASML's data and control modeling languages". Supervised together with Önder Babur.
+* Pre-2018 students not yet listed here.
