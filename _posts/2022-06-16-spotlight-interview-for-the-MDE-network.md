@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spotlight interview for the MDE Network.
+title: Spotlight interview for the MDE Network
 #subtitle: Each post also has a subtitle
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
