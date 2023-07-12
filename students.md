@@ -8,7 +8,7 @@ title: Students
 
 I typically supervise students for Master's internship or graduation projects. For TU/e students, (on campus network via VPN) a list of graduation project assignments can be found [here](https://assignments.win.tue.nl/search?q=cleophas) (somewhat outdated, but still quite indicative of my research topics and collaborations). If you are interested in one of these, or want to discuss ideas for a different graduation project topic, please contact me.
 
-I'm also interested in supervising doctoral students at TU/e, provided you either get self-funded via a grant, do a part-time PhD in combination with your job, or work on a project we have funding for.
+I'm also interested in supervising doctoral students at TU/e or SU, provided you either get self-funded via a grant, do a part-time PhD in combination with your job, or work on a project we have funding for.
 
 <!-- At the moment (June 2020), we have [Two PhD positions on methodology and tool support for effective digital twinning](https://jobs.tue.nl/en/vacancy/two-phd-positions-on-methodology-and-tool-support-for-effective-digital-twinning-852762.html). -->
 
