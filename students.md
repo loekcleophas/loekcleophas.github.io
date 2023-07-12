@@ -24,6 +24,7 @@ I'm also interested in supervising doctoral students at TU/e, provided you eithe
 ## Master's students
 
 * (2023) Judith Houdijk, MSc CSE (Computer Science and Engineering) student at TU/e on MSc final project around change impact analysis and propagation for grammar-based domain-specific languages. Supervised together with Hossain Muctadir, and in collaboration with Andreas Wortmann, Stuttgart University, Germany.
+* (2023) Siyue Chen, MSc CSE student at TU/e on MSc final project around visualization of GitHub repository forks. Supervised together with Jacob Krüger.
 <!-- * (2022) Jingjing Wang, MSc ES student at TU/e in MSc final project preparation phase, deciding on topic. Supervised together with Hossain Muctadir. -->
 
 # Previous postdocs and students
