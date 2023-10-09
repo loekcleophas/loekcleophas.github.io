@@ -8,7 +8,7 @@ title: Students
 
 I typically supervise students for Master's internship or graduation projects. For TU/e students, (on campus network via VPN) a list of graduation project assignments can be found [here](https://assignments.win.tue.nl/search?q=cleophas) (somewhat outdated, but still quite indicative of my research topics and collaborations). If you are interested in one of these, or want to discuss ideas for a different graduation project topic, please contact me.
 
-I'm also interested in supervising doctoral students at TU/e or SU, provided you either get self-funded via a grant, do a part-time PhD in combination with your job, or work on a project we have funding for.
+I'm also interested in supervising doctoral students at TU/e or SU, provided you either get self-funded via a grant, do a part-time PhD in combination with your job, or work on a project we have funding for. At the moment, I do not have positions of the latter kind, but colleagues in my group or elsewhere may have funding for such positions, possibly with joint supervision.
 
 <!-- At the moment (June 2020), we have [Two PhD positions on methodology and tool support for effective digital twinning](https://jobs.tue.nl/en/vacancy/two-phd-positions-on-methodology-and-tool-support-for-effective-digital-twinning-852762.html). -->
 
@@ -24,25 +24,25 @@ I'm also interested in supervising doctoral students at TU/e or SU, provided you
 ## Master's students
 
 * (2023) Judith Houdijk, MSc CSE (Computer Science and Engineering) student at TU/e on MSc final project around change impact analysis and propagation for grammar-based domain-specific languages. Supervised together with Hossain Muctadir, and in collaboration with Andreas Wortmann, Stuttgart University, Germany.
-* (2023) Siyue Chen, MSc CSE student at TU/e on MSc final project around visualization of GitHub repository forks. Supervised together with Jacob Krüger.
 <!-- * (2022) Jingjing Wang, MSc ES student at TU/e in MSc final project preparation phase, deciding on topic. Supervised together with Hossain Muctadir. -->
 
 # Previous postdocs and students
 
 ## Postdoctoral researchers
 
-* (2020-2022) [Gökhan Kahraman](https://www.linkedin.com/in/gokhankahraman-51788b16/), postdoc at TU/e on the [ArrowHead Tools](https://arrowhead.eu/arrowheadtools) project.
+* (2020-2022) [Gökhan Kahraman](https://www.linkedin.com/in/gokhankahraman-51788b16/), postdoc at TU/e on the [ArrowHead Tools](https://arrowhead.eu/arrowheadtools) project. Gökhan is now a Senior Lead Engineer at Aselsan.
 
 ## Doctoral students
 
 * (2023) [Sangeeth Kochanthara](https://www.linkedin.com/in/sangeethko/), PhD student at TU/e on (Software) Architecture and Functional Safety as part of the [i-CAVE](https://i-cave.nl) (integrated Cooperative Automated VEhicles) program. Sangeeth is now [at ASTRON](https://www.astron.nl). Together with Yanja Dajsuren and Mark van den Brand.
-* (2021) [Kousar Aslam](https://www.linkedin.com/in/kousar-aslam-61a39216b/), PhD student at TU/e on joint project with [ASML](https://www.asml.com), working on learning component models by using active automata learning techniques. Kousar is now [a postdoc at VU Amsterdam](https://research.vu.nl/en/persons/kousar-aslam). Supervised together with Ramon Schiffelers and Mark van den Brand.
+* (2021) [Kousar Aslam](https://www.linkedin.com/in/kousar-aslam-61a39216b/), PhD student at TU/e on joint project with [ASML](https://www.asml.com), working on learning component models by using active automata learning techniques. Kousar [was a postdoc and will soon start as assist.prof. at VU Amsterdam](https://research.vu.nl/en/persons/kousar-aslam). Supervised together with Ramon Schiffelers and Mark van den Brand.
 * (2019) [Önder Babur](https://www.linkedin.com/in/önder-babur-phd-3920995a/), PhD student at TU/e. Thesis "Model analytics and management". Önder is now an assistant professor at [Wageningen University and Research](https://research.wur.nl/en/persons/önder-babur) as well as guest at [TU/e](https://research.tue.nl/en/persons/önder-babur). Supervised together with Mark van den Brand.
-* (2017) [Vreda Pieterse](https://www.linkedin.com/in/vreda-pieterse-58b06238/), PhD student at University of Pretoria. Thesis "Topic Maps for Specifying Algorithm Taxonomies: A Case Study using Transitive Closure Algorithms." Vreda has by now retired from University of Pretoria, but remains an active researcher; see [ResearchGate](https://www.researchgate.net/profile/Vreda-Pieterse). Supervised together with Bruce Watson and Derrick Kourie.
+* (2017) [Vreda Pieterse](https://www.linkedin.com/in/vreda-pieterse-58b06238/), PhD student at University of Pretoria. Thesis "Topic Maps for Specifying Algorithm Taxonomies: A Case Study using Transitive Closure Algorithms." Vreda was a senior lecturer but has by now retired from University of Pretoria, although she remains an active researcher; see [ResearchGate](https://www.researchgate.net/profile/Vreda-Pieterse). Supervised together with Bruce Watson and Derrick Kourie.
 
 ## Master's students
 
-* (2023) Jur van der Velden, MSc CSE (Computer Science and Engineering) student at TU/e on MSc final project with [Canon Production Printing](https://cpp.canon), "Towards a Digital Twin Factory for Ink-handling Subsystems".
+* (2023) Siyue Chen, MSc CSE (Computer Science and Engineering) student at TU/e on MSc final project around visualization of GitHub repository forks. Supervised together with Jacob Krüger.
+* (2023) Jur van der Velden, MSc CSE student at TU/e on MSc final project with [Canon Production Printing](https://cpp.canon), "Towards a Digital Twin Factory for Ink-handling Subsystems".
 * (2023) [Alexandre Janin](https://www.linkedin.com/in/alexandre-janin-678781172/), MSc EIT Digital ES (Embedded Systems) student at TU Berlin and TU/e on MSc final project with [Canon Production Printing](https://cpp.canon), working on model-based media handling for Canon’s cut-sheet printers. Supervised together with Gökhan Kahraman.
 * (2022) [Ander Lee](https://www.linkedin.com/in/ander-lee/), MSc ES student at TU/e in MSc final project preparation phase, investigating digital twin model integration and orchestration techniques by means of a microbrewery case study (_yes, you read that right---brewing beer for science_). Supervised together with David Manrique Negrin.
 * (2022) [Bram van der Pol](https://www.linkedin.com/in/bram-van-der-pol-07338b103/), MSc CSE student at TU/e on MSc final project with [Canon Production Printing](https://cpp.canon), working on models for model based carriage motion.
